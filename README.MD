@@ -7,4 +7,5 @@ This is a new comment!
 5
 565
 565
+This is a new text
 
